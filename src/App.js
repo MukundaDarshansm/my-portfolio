@@ -3,7 +3,7 @@ import { Contact } from "./components/Contact";
 import { Experience } from "./components/Experience";
 import  Home  from "./components/Home";
 import NavBar from "./components/NavBar";
-// import { Portfolio } from "./components/Portfolio";
+import { Project } from "./components/Project";
 import SocialLinks from "./components/SocialLinks";
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       <Home/>
       <SocialLinks/>
       <About/>
-      {/* <Portfolio/> */}
+      <Project/> 
       <Experience/>
       <Contact/>
     </div>
