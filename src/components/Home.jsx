@@ -1,6 +1,6 @@
 import React from 'react';
 import { MdOutlineKeyboardArrowRight } from 'react-icons/md';
- import HeroImage from '../assets/hero.jpg';
+ import HeroImage from '../assets/hero1.png';
  
 // import FaArrowRight  from "react-icons/md";
 
