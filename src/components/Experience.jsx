@@ -59,8 +59,8 @@ export const Experience = () => {
     },
     {
       id: 8,
-      src: Java,
-      title: 'JAVA',
+      src: laravel,
+      title: 'LARAVEL',
       style: 'shadow-orange-500'
     },
     {

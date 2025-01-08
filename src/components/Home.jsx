@@ -12,9 +12,7 @@ import { MdOutlineKeyboardArrowRight } from 'react-icons/md';
         <div className='flex flex-col justify-center h-full'>
             <h2 className='text-4xl sm:text-7xl font-bold text-white'> I'm a Full Stack Developer</h2>
                 <p className='text-gray-500 py-4 msx-w-md'>
-                    I have 1.6 Years of Exprience buling and desining Software.
-                    Currently, I Love to Work on web application using technologies like
-                    React,Tailwind,Php,MySql.
+                I have 2 years of experience in building and designing software. Currently, I love working on web applications using technologies like Laravel, React, Tailwind, PHP, and MySQL
                 </p>
             <div>
                 <button className='text_white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>
